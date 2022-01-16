@@ -6,7 +6,7 @@ Inspired by the beautiful acaudwell/Gource project.
 This rough script uses mbostock/d3 to create a force directed layout of your git repo, showing commits over time by the authors.
 
 Check out a demo, using the jquery repo as an example, here:
-http://kennethkufluk.github.com/jsource/
+http://kennethkufluk.github.io/jsource/
 
 To run this over your own repo:
 
